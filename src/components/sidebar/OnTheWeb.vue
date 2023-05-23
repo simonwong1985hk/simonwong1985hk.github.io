@@ -10,7 +10,7 @@
     <!-- YouTube -->
     <div class="flex items-center my-3">
       <ion-icon name="logo-youtube"></ion-icon>
-      <a href="https://runcodeguy.com" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <a href="https://www.youtube.com/@runcodeguy" target="_blank" rel="noopener noreferrer">YouTube</a>
     </div>
   </div>
 </template>

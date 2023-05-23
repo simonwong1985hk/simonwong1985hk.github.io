@@ -2,8 +2,7 @@
   <div id="profile" class="prose">
     <h2 class="section-headline">Profile</h2>
     <p>
-      My name is Simon Wong, and I'm a {{ new Date().getFullYear() - 2015 }} year old developer living in the
-      Hong Kong.
+      My name is Simon Wong, and I'm a {{ new Date().getFullYear() - 2015 }} year old developer living in the Hong Kong.
     </p>
     <p>
       Specifically, I'm a <span class="font-bold">self-taught</span> Full Stack Web
@@ -19,11 +18,12 @@
       to build a robust web app.
     </p>
     <p>
-      I'm familiar with using CSS frameworks like
-      <span class="font-bold">TailwindCSS</span>,
-      <span class="font-bold">Bootstrap</span> to speed up styling of my
-      projects.
+      I'm familiar with using TALL stack to speed up the development process.<br />
     </p>
   </div>
+  <span class="mr-2 lg:mr-10"><img src="../../assets/img/tailwind.svg" class="inline h-3" alt="Tailwind Logo" /></span>
+  <span class="mr-2 lg:mr-10"><img src="../../assets/img/alpine.svg" class="inline h-4" alt="Alpine Logo" /></span>
+  <span class="mr-2 lg:mr-10"><img src="../../assets/img/laravel.svg" class="inline h-4" alt="Laravel Logo" /></span>
+  <span class="mr-2 lg:mr-10"><img src="../../assets/img/livewire.svg" class="inline h-4" alt="Livewire Logo" /></span>
   <hr class="mt-8 mb-12" />
 </template>

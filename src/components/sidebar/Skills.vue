@@ -74,6 +74,10 @@
         <img src="../../assets/img/logo-laravel.svg" class="inline w-6" alt="Laravel Logo" />
         <a href="https://laravel.com" target="_blank" rel="noopener noreferrer" class="text-sm mr-4">
           Laravel</a>
+        <!-- Filament -->
+        <img src="../../assets/img/logo-filament.svg" class="inline w-6" alt="Filament Logo" />
+        <a href="https://filamentphp∫.com" target="_blank" rel="noopener noreferrer" class="text-sm mr-4">
+          Filament</a>
         <progress max="100" value="100"></progress>
       </li>
 
@@ -105,5 +109,5 @@
 </template>
 
 <style scoped>
-@import '../../assets/link.css';
+  @import '../../assets/link.css';
 </style>

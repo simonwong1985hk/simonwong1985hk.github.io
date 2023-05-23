@@ -11,6 +11,11 @@
       <img src="../../assets/img/logo-mdn.svg" class="inline w-10 m-2" alt="Mozilla Developer Network" />
     </a>
 
+    <!-- laracasts -->
+    <a href="https://www.laracasts.com" target="_blank" rel="noopener noreferrer">
+      <img src="../../assets/img/logo-laracasts.svg" class="inline w-7 m-2" alt="Laracasts Logo" />
+    </a>
+
     <!-- freeCodeCamp -->
     <a href="https://www.freecodecamp.org" target="_blank" rel="noopener noreferrer">
       <img src="../../assets/img/logo-freecodecamp.svg" class="inline w-10 m-2" alt="freeCodeCamp Logo" />

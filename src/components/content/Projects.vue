@@ -24,8 +24,21 @@
       <div class="lg:inline-block lg:w-8/12 w-full">
         <span class="text-sm">Built with:</span>
         <span class="rounded-xl bg-indigo-100 text-sm px-4 inline-block m-2">Laravel</span>
-        <span class="rounded-xl bg-indigo-100 text-sm px-4 inline-block m-2">Tailwind CSS</span>
+        <span class="rounded-xl bg-indigo-100 text-sm px-4 inline-block m-2">Tailwind</span>
         <span class="rounded-xl bg-indigo-100 text-sm px-4 inline-block m-2">Livewire</span>
+      </div>
+    </section>
+
+    <!-- hkaea.hk -->
+    <section class="mb-7">
+      <div class="lg:inline-block lg:w-4/12 lg:align-center italic mb-2">
+        <a class="text-xl text-gray-700 no-underline" href="https://hkaea.hk" target="_blank"
+          rel="noopener noreferrer">hkaea.hk</a>
+      </div>
+      <div class="lg:inline-block lg:w-8/12 w-full">
+        <span class="text-sm">Built with:</span>
+        <span class="rounded-xl bg-indigo-100 text-sm px-4 inline-block m-2">Laravel</span>
+        <span class="rounded-xl bg-indigo-100 text-sm px-4 inline-block m-2">Filament</span>
       </div>
     </section>
 
@@ -34,6 +47,18 @@
       <div class="lg:inline-block lg:w-4/12 lg:align-center italic mb-2">
         <a class="text-xl text-gray-700 no-underline" href="https://shop.auctmarts.com" target="_blank"
           rel="noopener noreferrer">auctmarts.com</a>
+      </div>
+      <div class="lg:inline-block lg:w-8/12 w-full">
+        <span class="text-sm">Built with:</span>
+        <span class="rounded-xl bg-indigo-100 text-sm px-4 inline-block m-2">Magento</span>
+      </div>
+    </section>
+
+    <!-- order.gfoto.hk -->
+    <section class="mb-7">
+      <div class="lg:inline-block lg:w-4/12 lg:align-center italic mb-2">
+        <a class="text-xl text-gray-700 no-underline" href="https://order.gfoto.hk" target="_blank"
+          rel="noopener noreferrer">order.gfoto.hk</a>
       </div>
       <div class="lg:inline-block lg:w-8/12 w-full">
         <span class="text-sm">Built with:</span>
@@ -57,5 +82,5 @@
 </template>
 
 <style scoped>
-@import '../../assets/link.css';
+  @import "../../assets/link.css";
 </style>
